@@ -98,4 +98,4 @@ Network Status: This client currently connects to the XerisCoin Test Network. Di
 
 Data Persistence: Generated keys are held in volatile memory until saved. Users must ensure they back up their miner.json file immediately after generation. No entity under the Xeris Network Foundation can recover lost private keys.
 
-Designed by Xeris Web Co. Copyright 2025 Xeris Technologies, Xeris Network Foundation. All rights reserved.
+Designed by Xeris Web Co. Copyright 2026 Xeris Technologies, Xeris Network Foundation. All rights reserved.
